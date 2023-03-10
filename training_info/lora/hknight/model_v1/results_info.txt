@@ -1,0 +1,3 @@
+training_time: 15 minutes
+success: false
+epochs: 000020

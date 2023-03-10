@@ -1,0 +1,55 @@
+dataset: 2
+sd: 1.5
+method: dreambooth
+model: Anything-v3-1
+vae: anime.vae.pt
+regularization: none
+class images: 8
+
+reg_repeats: 1
+train_repeats: 188
+concept_name: hknight
+class_name: character
+
+network_dim: 128
+network_alpha: 128
+network_weight none
+network_train_on: both
+
+optimizer_type: adamw8bit
+optimizer_args: none
+
+unet_lr: 1e-4
+text_encoder_lr: 5e-5
+lr_scheduler: constant
+lr_warmup_steps:0
+lr_scheduler_args:1
+
+enable_bucket: off
+resolution: 512
+bucket_reso_steps: 64
+cache_latents: on
+flip_aug: off
+caption_extension: .txt
+caption_dropout_rate: 0
+caption_dropout_every_n_epochs: 0
+
+noise_offset: 0
+max_train_type: max_train_epochs
+max_Train_type_value: 1
+train_batch_size: 2
+mixed_precision: fp16
+save_precision: fp16
+save_n_epochs_type: save_n_epoch_ratio
+save_n_epochs_type_value: 3
+save_model_as: safetensors
+max_token_lenght: 225
+clip_skip: 2
+gradient_checkpointing: off
+gradient_accumulation_steps: 1
+seed: 14
+additional_argument: --shuffle_caption --xformers
+print_hyperparameter: on
+
+
+

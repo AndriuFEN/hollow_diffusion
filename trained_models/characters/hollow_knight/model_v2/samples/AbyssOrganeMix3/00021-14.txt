@@ -1,0 +1,3 @@
+1girl, <lora:hknight_lora_v2:0.9>, white hair, black dress, white horns, sword aside, erotic, showing ass
+Negative prompt: black head, 2 swords, (black horns: 1.2)
+Steps: 25, Sampler: DPM++ 2S a Karras, CFG scale: 7, Seed: 14, Size: 512x512, Model hash: 5493a0ec49, Model: abyssorangemix3

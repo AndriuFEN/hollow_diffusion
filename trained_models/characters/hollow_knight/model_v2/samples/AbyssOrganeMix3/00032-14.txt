@@ -1,0 +1,3 @@
+<lora:hknight_lora_v2:0.9> manga draw, white hair, dark clothes, white horns, sword in hand, erotic, black pants, in a cave, manga drawing, manga page, black and white drawing
+Negative prompt: black head, 2 swords, (black horns: 1.2)
+Steps: 30, Sampler: DPM++ 2S a Karras, CFG scale: 7, Seed: 14, Size: 720x720, Model hash: 5493a0ec49, Model: abyssorangemix3

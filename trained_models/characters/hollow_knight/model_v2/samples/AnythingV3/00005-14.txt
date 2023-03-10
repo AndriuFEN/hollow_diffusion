@@ -1,0 +1,2 @@
+<lora:hknight_lora_v2:1>, sword in hand, good quality
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 14, Size: 512x512, Model hash: 812cd9f9d9, Model: anythingV3, Clip skip: 2

@@ -1,0 +1,6 @@
+at least 100 repeats
+at least 1500 final steps
+
+1500/nimages = repeats (1500/8 = 188)
+or
+nimages*100 = repeats (1500/20 = 75 repeats -> use 100 repeats as minimun)
