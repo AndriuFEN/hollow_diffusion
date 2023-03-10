@@ -1,0 +1,3 @@
+1girl, <lora:hknight_lora_v2:0.9>, white hair, dark dress, white horns, sword in hand, erotic, black leggings, white mask, in a cave, with pink crystals, blue butterflies
+Negative prompt: black head, 2 swords, (black horns: 1.2)
+Steps: 30, Sampler: DPM++ 2S a Karras, CFG scale: 7, Seed: 14, Size: 512x512, Model hash: 5493a0ec49, Model: abyssorangemix3
